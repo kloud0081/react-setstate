@@ -1,0 +1,12 @@
+.profile{width: 100%;margin: auto;margin-top: 15px;display: flex;flex-wrap: nowrap;}
+.one{width: 50%;}
+.two{width: 50%;}
+.two h1{text-align: center;color: blue;}
+.two li{margin-left: 40px;text-decoration: none;font-weight: bold;}
+.two img{margin-left: 40px;}
+.two span{color: blue;font-weight: bold;}
+
+
+
+.button{color: red;border: coral 2PX solid; margin-left: 400px;margin-top: 200px;}
+img{display:block;border:1px solid blue;margin-left: 200px;  }
